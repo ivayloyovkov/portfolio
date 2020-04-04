@@ -1,8 +1,4 @@
 <p align="center">
-  <a href="https://ivayloyovkov.com">
-    <img src="https://www.ivayloyovkov.com/favicon.ico" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">Ivaylo Yovkov - Portfolio Website</h3>
 
   <p align="center">

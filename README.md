@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/ivayloyovkov/ecommerce-project">
+  <a href="https://ivayloyovkov.com">
     <img src="https://www.ivayloyovkov.com/favicon.ico" alt="Logo" width="80" height="80">
   </a>
 
